@@ -1,6 +1,7 @@
 Hello, I’m @arscisca!
 
-I am currently a MSc. student in Electronic Engineering at Politecnico di Torino and I love all about programming and digital electronics.
+I am a Digital Verification Engineer at Qualcomm.
+Passionate about programming, electronics and all around!
 
 <!---
 arscisca/arscisca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
